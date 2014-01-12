@@ -3,6 +3,11 @@ Google Java代码风格
 本文档翻译自Google官方发布的Java代码风格规范
 
 
+##Eclipse导入代码风格配置文件
+* 首先下载配置文件[链接]()
+* 在Eclipse中执行导入：Window -> Preferences -> Java -> Code Style -> Formatter -> Import
+
+
 Google官方原文[链接](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
 
 ### License
