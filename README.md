@@ -6,7 +6,7 @@ Google官方原文[链接](http://google-styleguide.googlecode.com/svn/trunk/jav
 
 已存在的中文翻译版本[链接](http://hawstein.com/posts/google-java-style.html)
 
-##Eclipse导入代码风格配置文件
+## Eclipse导入代码风格配置文件
 * 首先下载配置文件[链接](http://google-styleguide.googlecode.com/svn/trunk/eclipse-java-google-style.xml)
 * 在Eclipse中执行导入：Window -> Preferences -> Java -> Code Style -> Formatter -> Import
 
