@@ -2,7 +2,7 @@ Google Java代码风格
 ======================
 本文档翻译自Google官方发布的Java代码风格规范
 
-Google官方原文[链接](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+Google官方原文[链接](https://google.github.io/styleguide/javaguide.html)
 
 已存在的中文翻译版本[链接](http://hawstein.com/posts/google-java-style.html)
 
