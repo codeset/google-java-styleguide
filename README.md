@@ -12,10 +12,10 @@ Google 官方原文[链接](https://google.github.io/styleguide/javaguide.html)
 
 2. 在 Eclipse 中执行导入：Window -> Preferences -> Java -> Code Style -> Formatter -> Import
 
-## Intellij IDEA 导入代码风格配置文件
+## IntelliJ IDEA 导入代码风格配置文件
 
 1. 首先下载配置文件[链接](https://raw.githubusercontent.com/google/styleguide/gh-pages/intellij-java-google-style.xml)
-2. 在 Intellij IDEA 中执行导入：File -> Settings -> Editor -> Code Style -> Java -> Import Scheme -> Intellij IDEA Code Style XML
+2. 在 IntelliJ IDEA 中执行导入：File -> Settings -> Editor -> Code Style -> Java -> Import Scheme -> IntelliJ IDEA Code Style XML
 
 
 ## License
