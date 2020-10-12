@@ -1,0 +1,41 @@
+/*documentation
+Question:- A simple lap wound armature has 840 conductor and flux per pole
+of 0.018 weber . Calculated when the machine is running 600 rpm. Also
+calculated the emf generated if the armature winding is wave connected.
+P = 6
+Z = 840
+2= 0.018 wb
+N = 600 rpm
+*/
+
+
+
+package dcMachines;
+
+import java.util.Scanner;
+
+public class DcGeneration {
+	
+	public static void main(String [] args) {
+		
+		Scanner scan = new Scanner (System.in);
+		System.out.print("enter number of poles : = ");
+		int pole = scan.nextInt();
+		System.out.print("enter total number of conductor : = ");
+		int conductor = scan.nextInt();
+		System.out.print("enter flux per pole : = ");
+		float flux = scan.nextFloat();
+		System.out.print("enter speed of rotation of armature in R.P.M : = ");
+		int rotation = scan.nextInt();
+		
+		//calculating lap connected armature
+		double LapConnected = (pole*flux*conductor*rotation)/(60*pole);
+		System.out.print("lap connected armature = "+LapConnected);
+		
+		//calculating Wave connected armature
+		
+		
+		
+	}
+
+}
